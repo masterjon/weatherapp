@@ -298,3 +298,5 @@ SPECTACULAR_SETTINGS = {
 }
 # Your stuff...
 # ------------------------------------------------------------------------------
+WEATHER_API_PROVIDER_BASE_URL = "https://api.openweathermap.org/data/2.5/"
+WEATHER_API_PROVIDER_APP_ID = env("WEATHER_API_PROVIDER_APP_ID")

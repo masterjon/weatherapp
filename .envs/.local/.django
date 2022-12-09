@@ -2,3 +2,4 @@
 # ------------------------------------------------------------------------------
 USE_DOCKER=yes
 IPYTHONDIR=/app/.ipython
+WEATHER_API_PROVIDER_APP_ID=655dfc390726be35679ee1f171b45301
